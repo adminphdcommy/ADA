@@ -1,0 +1,37 @@
+a {
+	color:#3F6ABE;
+}
+
+h1 {
+	color:#F1005B;
+}
+
+p {
+	text-align: justify;
+	font-family: bookman,times,arial;
+}
+
+.img1 {
+	width:100%;
+	margin:auto;
+}
+
+.img2 {
+	width:350px;
+	margin:auto;
+}
+
+.divider {
+	height:1px;
+	background:grey;
+	width:100%;
+}
+
+.header{
+	background-color: white;
+    overflow: hidden;
+    position: fixed;
+    width:100%;
+    top:0;
+    opacity: 0.9;
+}
